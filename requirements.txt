@@ -7,3 +7,4 @@ Flask-Login==0.6.3    # For user authentication
 azure-storage-blob==12.17.0 # For Azure Blob Storage integration
 azure-identity
 azure-keyvault-secrets
+azure-storage-blob

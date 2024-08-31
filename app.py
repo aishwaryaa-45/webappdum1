@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Replace with your Key Vault name
 KEY_VAULT_NAME = "keyvalut123w"
-SECRET_NAME = "MySecretKey"
+SECRET_NAME = "azurestorage1"
 
 # Create a SecretClient using DefaultAzureCredential
 KV_URI = f"https://{KEY_VAULT_NAME}.vault.azure.net"
